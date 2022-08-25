@@ -57,7 +57,7 @@ function App() {
         >
           <button
             onClick={refreshColour}
-            class="hover:-hue-rotate-180 hover:rotate-180 duration-500 focus:ring-4 focus:outline-none font-medium text-sm p-2.5 text-center inline-flex items-center mr-2"
+            class="hover:-hue-rotate-180 hover:-rotate-180 duration-500 focus:ring-4 focus:outline-none font-medium text-sm p-2.5 text-center inline-flex items-center mr-2"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
