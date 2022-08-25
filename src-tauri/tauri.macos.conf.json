@@ -1,0 +1,25 @@
+{
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "clipboard": {
+        "all": false,
+        "writeText": true
+      },
+      "window": {
+        "all": false,
+        "startDragging": true
+      }
+    },
+    "windows": [
+      {
+        "title": "Kolor",
+        "height": 275,
+        "width": 270,
+        "resizable": false,
+        "fullscreen": false,
+        "visible": false
+      }
+    ]
+  }
+}
